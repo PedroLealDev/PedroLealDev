@@ -1,4 +1,4 @@
-### 👋 Hey, i'm Pedro Leal, Front-End Developer.
+### 👋 Hey! I'm Pedro Leal, Front-End Developer.
 
 ##
 
